@@ -15,12 +15,13 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Ruby School Library] <a name="about-project"></a>
 
-> **Ruby School Library** is a project that is built to decode Morse code.
+> **Ruby School Library** is a project that is built to model a library and school setup.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -126,11 +127,19 @@ Thats it now you can execute your program on termonal:)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/MosDevx/Ruby-Library/issues).
 
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Project architecture and requirments provided by Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
