@@ -21,7 +21,7 @@ class App
 
   class << self
     attr_reader :student_id
-   end
+  end
 
   class << self
     attr_writer :student_id
